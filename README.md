@@ -2,8 +2,10 @@
  This script uses SeleniumAPI to play an youtube video while recording the desktop screen
 
 # System Information
-OS: Windows 11 Home Insider Preview Single Language 
+OS: Windows 11 Home Insider Preview Single Language
+
 Build: 22489.1000
+
 Python version running: 3.9.7
 
 # Prerequisites
