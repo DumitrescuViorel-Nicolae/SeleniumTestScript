@@ -13,7 +13,7 @@ You may create a virtual environment if a python you have a python version alrea
 * Open Windows terminal
 * Create 2 new folders in the current directory (mkdir pyver, mkdir pyproj)
 * Install python 3.10 in the pyver\py310
-* Create a virtual env named {here goes a desired name} in the pyproj folder - C:\Users\dterm\pyver\py310\python -m venv {here goes a desired name}
+* Create a virtual env in the pyproj folder - C:\Users\dterm\pyver\py310\python -m venv {placeholder for name}
 * Activate the env -  {chosen name}\Scripts\activate (if you encounter a 'cannot be loaded error' you may need to run "Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted" command )
 * Install Python 3.10
 * Install pip
