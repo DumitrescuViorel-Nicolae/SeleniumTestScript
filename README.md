@@ -27,7 +27,8 @@ You may create a virtual environment if a python you have a python version alrea
 
 # For SeleniumAPI
 * `pip install selenium`
-To ensure the functionality of SeleniumAPI, a driver must also be installed depending on the preffered browser and its version. In this case I installed a chromedriver from [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads) and added it to PATH.
+To ensure the functionality of SeleniumAPI, a driver must also be installed depending on the preffered browser and its version.
+In this case I installed a chromedriver from [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads) and added it to PATH.
 * `pip install webdriver-manager`
 
 Finally, to run the script, open it in VSCode, run the main.py and follow the instructions given for input.
