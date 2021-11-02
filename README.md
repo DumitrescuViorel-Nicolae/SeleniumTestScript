@@ -24,7 +24,7 @@ You may create a virtual environment if a python you have a python version alrea
 
 # For audio record
 * `pip install pipwin` in order to get a supported wheel for pyaudio
-* `piwin install pyaudio`
+* `pipwin install pyaudio`
 * also to avoid any headaches to record system sound, set stereo mix as default (Win+R mmsys.cpl and change from the Recording tab)
 
 # For SeleniumAPI
