@@ -33,7 +33,7 @@ class SeleniumHandler():
     def create_new_driver(self):
         return Chrome(executable_path=PATH+'chromedriver.exe', options=self.create_new_options())
 
-    def navigate(self, site='https://www.youtube.com/'):
+    def navigate(self, site='https://www.youtube.com/watch?v=vw_4kiYvEmE'):
         self.driver.get(site)
 
     def play_video(self):
